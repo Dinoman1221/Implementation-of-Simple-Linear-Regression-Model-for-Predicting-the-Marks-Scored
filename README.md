@@ -78,9 +78,9 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-https://github.com/user-attachments/assets/bb7ef6fd-7b63-43bc-a723-8d0a6f0d422e
+![Screenshot 2024-10-18 113751](https://github.com/user-attachments/assets/5dcdec34-a24a-4760-85f9-280719686e2f)
 
-https://github.com/user-attachments/assets/66c17922-8329-4ecb-baf6-c15ed0d51004
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
